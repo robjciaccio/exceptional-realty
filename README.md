@@ -5,6 +5,6 @@ Exceptional Realty Group Website
 This is an example site for the Into to Fron-end Web Development
 Course at The Flatiron School.
 
-#Contact 
+#Contact
 
 email: Robjciccio@gmail.com
